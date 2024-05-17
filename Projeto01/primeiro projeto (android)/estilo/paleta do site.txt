@@ -1,0 +1,6 @@
+paleta de cores do site
+
+34C601
+4EDA00
+027F02
+333333
